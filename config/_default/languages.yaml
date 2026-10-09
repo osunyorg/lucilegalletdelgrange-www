@@ -9,6 +9,12 @@ fr:
   buildFuture: true
   params:
     contact_details:
+      social_networks:
+        instagram:
+          label: >-
+            lucile_gallet
+          value: >-
+            https://instagram.com/lucile_gallet
 
   taxonomies:
     administrator: administrators
